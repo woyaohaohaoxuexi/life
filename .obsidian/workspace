@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "67be2f8f3d54a282",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4ecdc5ce2863de5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "车险.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba49ff326fa38813",
+    "type": "split",
+    "children": [
+      {
+        "id": "81db56d3e0676322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bf2aaae4cff5e3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "387187a9b1c79887",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd1ab16af14dbaea",
+    "type": "split",
+    "children": [
+      {
+        "id": "38a6b31a8c3f940e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f9a00071e83bdfd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "车险.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b4ecdc5ce2863de5",
+  "lastOpenFiles": [
+    "车险.md",
+    "images/1637635322467496.jpeg"
+  ]
+}
